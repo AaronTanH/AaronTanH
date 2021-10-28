@@ -1,3 +1,3 @@
 Hello, I'm Aaron!
 
-I'm currently a Mathematics student at Carnegie Mellon University
+I'm currently a Computer Science student at Carnegie Mellon University
